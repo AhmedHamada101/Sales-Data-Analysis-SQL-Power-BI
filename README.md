@@ -18,5 +18,4 @@
 - Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 - Developed an interactive and dynamic Dashboard using Pivot Tables, Slicers, and advanced charting techniques to track Sales Performance.
 
-
 <img src="Screenshot 2024-04-13 192036.png">
